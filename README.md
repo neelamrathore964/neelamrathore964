@@ -1,7 +1,8 @@
 # Hi, I'm Neelam Rathore 👋
 
-I'm a **Data Enthusiast** and **Software Developer** with a strong passion for leveraging data and technology to solve real-world problems. With experience in both **data science** and **software development**, I enjoy building scalable solutions that help businesses thrive. I’ve worked across diverse domains, from **machine learning** and **cloud engineering** to **web development** and **integration of payment systems**. I thrive on delivering impactful solutions and growing through each challenge.
+I'm a **Data Enthusiast** and **Software Developer** with a passion for using data and technology to solve real-world problems. I started in **software development**, focusing on web services and integrations, and now I’m transitioning to **data science**. With experience in **machine learning**, **cloud engineering**, and **data analytics**, I’m excited to continue enhancing my skills in **AI** and **data science**. 
 
+My goal is to contribute to the **AI** and **data** field by building impactful solutions that help businesses thrive.
 
 ## What I Do
 
